@@ -1,3 +1,18 @@
+Package: com.cydiageek.springanimations
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: SiegeModz <erasevii7@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/springanimations_1.0.0.deb
+Size: 37390
+Installed-Size: 242
+MD5sum: 347e8a2fd8d43775ee3a8f4938d178ec
+Description: Nice SpringBoard Animations Effects on iOS 11!
+Name: SpringAnimations
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: com.r333d.cylinder
 Version: 1.0.6
 Section: Tweaks
@@ -8,6 +23,7 @@ Filename: debs/com.r333d.deb
 Size: 255488
 Installed-Size: 899
 MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
-Description: Make your icons dance
+Description: Make your icons dance!
 Name: Cylinder
+Author: Reed Weichler <rweichler+cydia@gmail.com>
 
