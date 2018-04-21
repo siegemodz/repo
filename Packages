@@ -1,14 +1,14 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Package: com.toastie.cask
+Name: Cask
+Version: 0.2
+Size: 11048
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
-MD5sum:
-SHA1sum:
-SHA256sum:
-Filename: debs//(Tweak Name).deb
+Description: Animated table scrolling inspired by Google Plus
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Section: iPhone Tweaks
+MD5sum: e6ea2aae7512971fd3ebf6e254d56126
+SHA1sum: 5f3b0ad9c3dce188be3d4dc3b1be81739547136f
+SHA256sum: 63e6b4e9644f598c788c10164a37e235a4c697988d33ef75a819bf56ce3ff3a4
+Filename: debs//com.rpetrich.cask_0.2_iphoneos-arm.deb
 
