@@ -1,0 +1,13 @@
+Package: com.r333d.cylinder
+Version: 1.0.6
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/com.r333d.deb
+Size: 255488
+Installed-Size: 899
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+Description: Make your icons dance
+Name: Cylinder
+
