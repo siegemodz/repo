@@ -2,7 +2,7 @@ Package: com.cydiageek.springanimations
 Version: 1.0.0
 Priority: optional
 Section: Tweaks
-Maintainer: SiegeModz <erasevii7@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: debs/springanimations_1.0.0.deb
@@ -12,6 +12,24 @@ MD5sum: 347e8a2fd8d43775ee3a8f4938d178ec
 Description: Nice SpringBoard Animations Effects on iOS 11!
 Name: SpringAnimations
 Author: CydiaGeek <lucaluca86@aol.com>
+Homepage: https://github.com/siegemodz/toastie/depiction.js
+Depiction: https://github.com/siegemodz/toastie/depiction.js
+Icon: file:///Library/PreferenceBundles/SpringAnimations.bundle/SpringAnimations@2x.png
+
+Package: com.junesiphone.lockpluspro
+Version: 0.7
+Section: Cracked Tweaks
+Maintainer: SiegeModz <erasevii7@gmail.com>
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Filename: debs/lockpluspro.deb
+Size: 15271600
+MD5sum: 197ef851b4f1dc36647c2843e6a017ff
+Description: The ultimate lock screen tweak!
+Name: LockPlus Pro Cracked
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://github.com/siegemodz/toastie/depiction.js
 
 Package: com.r333d.cylinder
 Version: 1.0.6
@@ -23,7 +41,10 @@ Filename: debs/com.r333d.deb
 Size: 255488
 Installed-Size: 899
 MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
-Description: Make your icons dance!
+Description: Make your icons dance
 Name: Cylinder
 Author: Reed Weichler <rweichler+cydia@gmail.com>
+Homepage: https://github.com/siegemodz/toastie/depiction.js
+Depiction: hhttps://github.com/siegemodz/toastie/depiction.js
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 
