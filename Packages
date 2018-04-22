@@ -81,7 +81,7 @@ Version: 1.0.2-1
 Priority: optional
 Section: Tweaks (CC Modules)
 Maintainer: SiegeModz <erasevii7@gmail.com>
-Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, ws.hbang.common, org.theSiegeModz.libcolorpicker
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
 Filename: debs/colormyyccmodules_1.0.2-1.deb
 Size: 655096
@@ -90,6 +90,7 @@ MD5sum: 307dbfb0a4093316c664807adea665a0
 Description: Colorize your Control Center Modules!
 Name: ColorMyCCModules
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: /index.html
 
 Package: com.junesiphone.lockpluspro
 Version: 0.7
