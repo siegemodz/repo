@@ -31,6 +31,21 @@ Description: Custom Loading Spinner Text on System Wide!
 Name: CustomLoadingText
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: com.ryanyao.slicey
+Version: 1.0
+Priority: optional
+Section: Themes
+Maintainer: SiegeModz <erasevii7@gmail.com>
+Depends: firmware (>= 9.0), com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: debs/sliceytheme_1.0.deb
+Size: 3400076
+Installed-Size: 10512
+MD5sum: 9bc63cfd6b31bb182550cb527803973a
+Description: This is my first theme called Slicey! Enjoy!
+Name: Slicey
+Author: RyanY <lucky13820@gmail.com>
+
 Package: com.cydiageek.springanimations
 Version: 1.0.0
 Priority: optional
