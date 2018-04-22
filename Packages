@@ -31,6 +31,21 @@ Description: Custom Loading Spinner Text on System Wide!
 Name: CustomLoadingText
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: org.thebigboss.libcolorpicker
+Version: 1.6-1
+Priority: optional
+Section: Development
+Maintainer: SiegeModz <erasevii7@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/libcolorpicker_1.6-1.deb
+Size: 71722
+Installed-Size: 376
+MD5sum: f12992a89a3fd29670bf62503efc43cb
+Description: color picker library for developers
+Name: libcolorpicker
+Author: PixelFire <pixelfiredev@helpful.io>
+
 Package: com.ryanyao.slicey
 Version: 1.0
 Priority: optional
