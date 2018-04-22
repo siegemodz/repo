@@ -16,6 +16,21 @@ Description: An awesome theme manager!
 Name: Anemone
 Author: AnemoneTeam <anemonetheming@gmail.com>
 
+Package: com.cydiageek.customloadingtext
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: SiegeModz <erasevii7@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/customloadingtext_1.0.0.deb
+Size: 39878
+Installed-Size: 237
+MD5sum: 160b626dcad2b88f03a91db5ddfdaf04
+Description: Custom Loading Spinner Text on System Wide!
+Name: CustomLoadingText
+Author: CydiaGeek <lucaluca86@aol.com>
+
 Package: com.cydiageek.springanimations
 Version: 1.0.0
 Priority: optional
@@ -31,10 +46,25 @@ Description: Nice SpringBoard Animations Effects on iOS 11!
 Name: SpringAnimations
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: com.ikilledappl3.colormyyccmodules
+Version: 1.0.2-1
+Priority: optional
+Section: Tweaks (CC Modules)
+Maintainer: SiegeModz <erasevii7@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, ws.hbang.common, org.theSiegeModz.libcolorpicker
+Architecture: iphoneos-arm
+Filename: debs/colormyyccmodules_1.0.2-1.deb
+Size: 655096
+Installed-Size: 2214
+MD5sum: 307dbfb0a4093316c664807adea665a0
+Description: Colorize your Control Center Modules!
+Name: ColorMyCCModules
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+
 Package: com.junesiphone.lockpluspro
 Version: 0.7
-Section: Cracked Tweaks
-Maintainer: SiegeModz <erasevii7@gmail.com>
+Section: Tweaks (Cracked)
+Maintainer: June <junesgraphics@gmail.com>
 Depends: mobilesubstrate
 Conflicts: 
 Architecture: iphoneos-arm
@@ -44,6 +74,20 @@ MD5sum: 197ef851b4f1dc36647c2843e6a017ff
 Description: The ultimate lock screen tweak!
 Name: LockPlus Pro
 Author: JunesiPhone <junesgraphics@gmail.com>
+
+Package: com.kingpuffdaddi.pauseonmute
+Version: 1.1.1
+Section: Tweaks (Music)
+Maintainer: SiegeModz <erasevii7@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/pauseonmute_1.1.1.deb
+Size: 32566
+Installed-Size: 259
+MD5sum: 74f3fefae4f9acd0635008dc0c4df586
+Description: Automatically pauses/resume music when you turn down the volume to 0
+Name: PauseOnMute
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 
 Package: com.r333d.cylinder
 Version: 1.0.6
@@ -58,5 +102,4 @@ MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
 Description: Make your icons dance
 Name: Cylinder
 Author: Reed Weichler <rweichler+cydia@gmail.com>
-
 
